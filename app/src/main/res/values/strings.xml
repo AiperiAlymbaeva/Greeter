@@ -1,0 +1,5 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Greeter</string>
+    <string name="name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="value">Введите имя...</string>
+</resources>
